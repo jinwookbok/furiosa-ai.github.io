@@ -17,7 +17,8 @@
     {
         "name": "2025.1.0",
         "version": "2025.1.0",
-        "url": "https://developer.furiosa.ai/v2025.1.0/en/"
+        "url": "https://developer.furiosa.ai/v2025.1.0/en/",
+        "preferred": true
     },
     {
         "name": "2025.2.0-pre0",
@@ -27,7 +28,6 @@
     {
         "name": "2025.2.0 (Latest)",
         "version": "2025.2.0",
-        "url": "https://developer.furiosa.ai/v2025.2.0/en/",
-        "preferred": true
+        "url": "https://developer.furiosa.ai/v2025.2.0/en/"
     }
 ]
